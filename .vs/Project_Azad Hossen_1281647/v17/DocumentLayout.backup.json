@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|e:\\isdb file\\module 03\\c#\\project_20\\project_azad hossen_1281647\\project_azad hossen_1281647\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\tests\\ditest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\tests\\ditest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\tests\\ditest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\tests\\ditest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\models\\manufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\models\\manufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\models\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\models\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\utils\\entityextions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\utils\\entityextions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\factories\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\factories\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\project_azad hossen_1281647\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA906C0-7CBA-4CEA-8BA8-1D38C3E90818}|Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647.csproj|solutionrelative:project_azad hossen_1281647\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DITest4.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest4.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Tests\\DITest4.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest4.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Tests\\DITest4.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:26:37.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DITest3.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest3.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Tests\\DITest3.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest3.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Tests\\DITest3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:26:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DITest2.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest2.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Tests\\DITest2.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest2.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Tests\\DITest2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:26:17.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DITest1.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest1.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Tests\\DITest1.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Tests\\DITest1.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Tests\\DITest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:26:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Models\\Customer.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Customer.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:22:59.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Program.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Program.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:18:57.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityExtions.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\UTils\\EntityExtions.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\UTils\\EntityExtions.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\UTils\\EntityExtions.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\UTils\\EntityExtions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:24:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Models\\IEntityBase.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\IEntityBase.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Models\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:21:38.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Mobile.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Models\\Mobile.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Mobile.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Models\\Mobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:22:16.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manufacture.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Manufacture.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Models\\Manufacture.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Manufacture.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Models\\Manufacture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:22:33.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Repositories\\GenericRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Repositories\\GenericRepositoryImpl.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Repositories\\GenericRepositoryImpl.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Repositories\\GenericRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:17:01.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Models\\Service.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Models\\Service.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Models\\Service.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:23:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryFactoryImpl.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Factories\\RepositoryFactoryImpl.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Factories\\RepositoryFactoryImpl.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Factories\\RepositoryFactoryImpl.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Factories\\RepositoryFactoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:21:30.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Factories\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Factories\\IRepositoryFactory.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Factories\\IRepositoryFactory.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Factories\\IRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:20:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Project_Azad Hossen_1281647\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "E:\\ISDB File\\Module 03\\C#\\Project_20\\Project_Azad Hossen_1281647\\Project_Azad Hossen_1281647\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Project_Azad Hossen_1281647\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:08:27.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
